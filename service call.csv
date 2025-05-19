@@ -1,0 +1,60 @@
+sr no,Branch,Product Group,Complaint Date,Customer Type,month,year,Problem(Issue stated by customer),Primary Defect,Gurantee Status,Complaint Category,Status
+1685,Thane,Coolers,31/01/2025 12:39:55,End Customer,9,24,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+30447,Vijaywada,Coolers,04/02/2025 17:19:51,Dealer,1,25,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+20513,Hyderabad,Coolers,04/02/2025 17:21:21,Dealer,12,24,Water Leakage,Water Leakage,Under warranty,Own Stock,Complete
+18661,Trichy,Coolers,06/02/2025 14:19:10,Dealer,12,24,TRANSIT DAMAGE,TRANSIT DAMAGE,Under warranty,Own Stock,Complete
+28526,Hyderabad,Coolers,08/02/2025 13:06:17,End Customer,1,25,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+9260,Trichy,Coolers,08/02/2025 15:52:58,Dealer,9,24,Transit Damage,Transit Damage,Under warranty,Own Stock,Complete
+20521,Bangalore,Coolers,10/02/2025 14:14:34,Dealer,12,24,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+30889,Hyderabad,Coolers,12/02/2025 12:54:43,Dealer,1,25,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+7249,Pune,Coolers,13/02/2025 10:34:34,End Customer,10,24,Noise / Jam,Noise / Jam,Under warranty,End Customer,Complete
+24796,Hyderabad,Coolers,13/02/2025 13:56:10,Dealer,12,24,Noise / Jam,Noise / Jam,Under warranty,Own Stock,Complete
+33074,Pune,Coolers,13/02/2025 13:48:50,Dealer,1,25,TRANSIT DAMAGE,TRANSIT DAMAGE,Under warranty,Own Stock,Complete
+19618,Chennai,Coolers,13/02/2025 18:47:27,Dealer,12,24,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+14145,Pune,Coolers,13/02/2025 15:54:12,Dealer,11,24,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+19622,Trichy,Coolers,14/02/2025 16:52:54,Dealer,12,24,Noise / Jam,Noise / Jam,Under warranty,Own Stock,Complete
+9136,Bangalore,Coolers,15/02/2025 15:58:23,Dealer,9,24,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+14366,Pune,Coolers,16/02/2025 16:17:55,Dealer,11,24,Others,Others,Under warranty,Own Stock,Complete
+468,Ahmedabad,Coolers,19/02/2025 10:58:06,End Customer,8,24,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+12720,Hubli,Coolers,20/02/2025 12:45:32,End Customer,1,25,Water Leakage,Water Leakage,Under warranty,End Customer,Complete
+8544,Trichy,Coolers,18/02/2025 12:19:25,End Customer,9,24,Water Leakage,Water Leakage,Under warranty,End Customer,Complete
+26753,Pune,Coolers,19/02/2025 14:10:22,End Customer,1,25,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+5854,Hyderabad,Coolers,21/02/2025 12:03:04,Dealer,10,24,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+1004,Nashik,Coolers,19/02/2025 13:17:43,End Customer,8,24,Water Leakage,Water Leakage,Under warranty,End Customer,Complete
+24736,Trichy,Coolers,21/02/2025 17:31:33,Dealer,12,24,Transit Damage,Transit Damage,Under warranty,Own Stock,Complete
+29323,Trichy,Coolers,21/02/2025 14:50:52,Dealer,1,25,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+28366,Jodhpur,Coolers,21/02/2025 15:09:22,Dealer on behalf of end customer,1,25,Noise / Jam,Noise / Jam,Under warranty,End Customer,Complete
+24899,Mumbai,Coolers,22/02/2025 17:18:14,End Customer,12,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,End Customer,Complete
+27599,Bangalore,Coolers,22/02/2025 14:52:10,End Customer,1,25,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+4936,Hubli,Coolers,22/02/2025 13:29:16,End Customer,9,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,End Customer,Complete
+30360,Hyderabad,Coolers,24/02/2025 12:26:48,Dealer,1,25,Transit Damage,Transit Damage,Under warranty,Own Stock,Complete
+1222,Thane,Coolers,24/02/2025 10:41:15,End Customer,8,24,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+27335,Kolkata,Coolers,24/02/2025 15:51:51,Dealer,1,25,Transit Damage,Transit Damage,Under warranty,Own Stock,Complete
+31544,Trichy,Coolers,24/02/2025 12:36:22,Dealer,1,25,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+26144,Pune,Coolers,24/02/2025 16:33:18,Dealer,1,25,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+2659,Cuttack,Coolers,25/02/2025 13:07:04,Dealer,9,24,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+19177,Trichy,Coolers,25/02/2025 16:09:12,Dealer,12,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,Own Stock,Complete
+17941,Hubli,Coolers,25/02/2025 16:17:50,Dealer,11,24,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+5211,Pune,Coolers,25/02/2025 17:06:24,Dealer,10,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,Own Stock,Complete
+28063,Chennai,Coolers,25/02/2025 18:00:01,Dealer,1,25,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+1713,Mumbai,Coolers,25/02/2025 13:40:34,End Customer,9,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,End Customer,Complete
+20529,Pune,Coolers,25/02/2025 16:35:04,End Customer,12,24,Others,Others,Under warranty,End Customer,Complete
+26917,Kolkata2,Coolers,28/02/2025 13:20:37,Dealer,1,25,Noise / Jam,Noise / Jam,Under warranty,Own Stock,Complete
+23935,Pune,Coolers,12/02/2025 13:48:54,Dealer,12,24,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+6232,Hubli,Coolers,18/02/2025 19:15:23,End Customer,9,24,Transit Damage,Transit Damage,Under warranty,End Customer,Complete
+4855,Hubli,Coolers,18/02/2025 10:28:18,End Customer,9,24,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+25430,Hyderabad,Coolers,12/02/2025 17:48:41,Dealer,1,25,Dead/Not working,Dead/Not working,Under warranty,Own Stock,Complete
+7081,Hubli,Coolers,20/02/2025 19:36:21,End Customer,9,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,End Customer,Complete
+16293,Pune,Coolers,25/02/2025 17:06:49,Dealer,11,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,Own Stock,Complete
+2579,Cuttack,Coolers,19/02/2025 13:30:57,End Customer,9,24,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+7698,Hubli,Coolers,26/02/2025 20:36:49,End Customer,9,24,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+6232,Hubli,Coolers,18/02/2025 19:15:23,End Customer,9,24,Transit Damage,Transit Damage,Under warranty,End Customer,Complete
+4855,Hubli,Coolers,18/02/2025 10:28:18,End Customer,9,24,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+7081,Hubli,Coolers,20/02/2025 19:36:21,End Customer,9,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,End Customer,Complete
+2579,Cuttack,Coolers,19/02/2025 13:30:57,End Customer,9,24,Dead/Not working,Dead/Not working,Under warranty,End Customer,Complete
+19622,Trichy,Coolers,14/02/2025 16:52:54,Dealer,12,24,Noise / Jam,Noise / Jam,Under warranty,Own Stock,Complete
+1004,Nashik,Coolers,19/02/2025 13:17:43,End Customer,8,24,Water Leakage,Water Leakage,Under warranty,End Customer,Complete
+24899,Mumbai,Coolers,22/02/2025 17:18:14,End Customer,12,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,End Customer,Complete
+19177,Trichy,Coolers,25/02/2025 16:09:12,Dealer,12,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,Own Stock,Complete
+1713,Mumbai,Coolers,25/02/2025 13:40:34,End Customer,9,24,Loose parts - transit issues,Loose parts - transit issues,Under warranty,End Customer,Complete
+20529,Pune,Coolers,25/02/2025 16:35:04,End Customer,12,24,Others,Others,Under warranty,End Customer,Complete
